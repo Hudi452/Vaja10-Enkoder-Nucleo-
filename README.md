@@ -1,5 +1,9 @@
 # Vaja10-Enkoder-Nucleo-
 
+PINOUT KONFIGURACIJA:\
+![konfig](https://github.com/Hudi452/Vaja10-Enkoder-Nucleo-/blob/main/Pinout_konfiguracija.png)
+
+
 ODGOVORI NA VPRAŠANJA:\
 2.\
 f) TIM2_CH1: PA0\
