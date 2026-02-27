@@ -6,6 +6,9 @@ PINOUT KONFIGURACIJA:\
 FOTOGRAFIJA VEZJA:\
 ![vezje](https://github.com/Hudi452/Vaja10-Enkoder-Nucleo-/blob/main/Slika%20vezja.png)
 
+VIDEO DELOVANJA:\
+![video](https://github.com/Hudi452/Vaja10-Enkoder-Nucleo-/blob/main/Vaja10-MIN2-ezgif.com-optimize.gif)
+
 ODGOVORI NA VPRAŠANJA:\
 2.\
 f) TIM2_CH1: PA0\
