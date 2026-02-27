@@ -3,6 +3,8 @@
 PINOUT KONFIGURACIJA:\
 ![konfig](https://github.com/Hudi452/Vaja10-Enkoder-Nucleo-/blob/main/Pinout_konfiguracija.png)
 
+FOTOGRAFIJA VEZJA:\
+![vezje](https://github.com/Hudi452/Vaja10-Enkoder-Nucleo-/blob/main/Slika%20vezja.png)
 
 ODGOVORI NA VPRAŠANJA:\
 2.\
