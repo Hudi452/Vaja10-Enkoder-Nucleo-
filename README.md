@@ -16,5 +16,5 @@ f) TIM2_CH1: PA0\
 5.\
 f) Če enkoder premaknemo za osnovni segment se vrednost števca spremeni za 2, včasih pa tudi samo za 1.
 
-KOMENTAR:\
-Stanje spremenljivke števec lahko v živo spremljamo v STM Studio. Ko enkoder sučemo v desno se vrednost števca povečuje, medtem ko se vrednost števca zmanjšuje, če enkoder sučemo v levo.
+KOMENTAR NA DELOVANJE:\
+Vaja deluje po pričakovanjih. Stanje spremenljivke števec lahko v živo spremljamo v STM Studio. Ko enkoder sučemo v desno se vrednost spremenljivke števec povečuje, medtem ko se vrednost spremenljivke števec zmanjšuje, če enkoder sučemo v levo.
