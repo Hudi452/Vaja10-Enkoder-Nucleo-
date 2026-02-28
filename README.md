@@ -1,4 +1,4 @@
-# Vaja10-Enkoder-Nucleo-
+# Vaja10-Enkoder-Nucleo
 
 PINOUT KONFIGURACIJA:\
 ![konfig](https://github.com/Hudi452/Vaja10-Enkoder-Nucleo-/blob/main/Pinout_konfiguracija.png)
